@@ -19,6 +19,12 @@ CIBERSEGURIDAD
  
  ![MUESTRA](https://user-images.githubusercontent.com/111086891/205401450-715e8620-dbc6-48c6-b0fb-413687d2871f.jpg)
  
+ 
+ Navegar en sus archivos.
+ 
+ ![1](https://user-images.githubusercontent.com/111086891/205410721-1e08169e-a528-499b-bfaa-1ea9aff1adea.png)
+ 
+ 
  Ver información de las bases de datos. 
  
  ![IMAGEN](https://user-images.githubusercontent.com/111086891/205401633-28eee639-460b-494c-997d-a82afba2577d.jpg)
