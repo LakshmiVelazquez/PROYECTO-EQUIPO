@@ -12,8 +12,8 @@ SE REQUIERE:
  
 #### Al trabajar este tipo de vulnerabilidades puedes obtener datos personales, de inicio de sesión y de las bases de datos de tus victimas. 
 #### Es muy importante que tengas cuidado con tu privacidad al momento de hacer este tipo de practicas ya que te puedes exponer tu mismo. 
- 
- 
+
+
  
  Extracción de contraseñas de inicio de sesión. 
  
