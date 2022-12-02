@@ -14,6 +14,7 @@ SE REQUIERE:
 #### Es muy importante que tengas cuidado con tu privacidad al momento de hacer este tipo de practicas ya que te puedes exponer tu mismo. 
  
  
+ 
  Extracción de contraseñas de inicio de sesión. 
  
  ![MUESTRA](https://user-images.githubusercontent.com/111086891/205401450-715e8620-dbc6-48c6-b0fb-413687d2871f.jpg)
