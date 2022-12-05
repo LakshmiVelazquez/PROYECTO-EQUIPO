@@ -14,8 +14,11 @@ SE REQUIERE:
  
  Te permite ver los datos de las bases de datos. 
  
- ![IMAGEN](https://user-images.githubusercontent.com/111086891/205401633-28eee639-460b-494c-997d-a82afba2577d.jpg)
+ ![IMAGEN](https://user-images.githubusercontent.com/111086891/205401633-28eee639-460b-494c-997d-a82afba2577d.jpg)![1](https://user-images.githubusercontent.com/111835798/205735923-7382bb84-ac39-46b9-b498-537821b5a326.png)
+
  
- 
+ PNG DE PRESENTACIÓN DEL EQUIPO 
+ ![Uploading 1.png…]()
+
  
 
